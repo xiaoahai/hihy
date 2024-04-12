@@ -10,7 +10,7 @@ echo "1
 300
 200
 
-1
+2
 
 " > input
 curl -sSLO  https://git.io/hysteria.sh && sudo  bash hysteria.sh < input
